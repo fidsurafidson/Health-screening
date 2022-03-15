@@ -1,0 +1,19 @@
+D:\ITU\S6\Projets\Analyse\Analyse\bin\Debug\Analyse.exe.config
+D:\ITU\S6\Projets\Analyse\Analyse\bin\Debug\Analyse.exe
+D:\ITU\S6\Projets\Analyse\Analyse\bin\Debug\Analyse.pdb
+D:\ITU\S6\Projets\Analyse\Analyse\obj\Debug\Analyse.csprojResolveAssemblyReference.cache
+D:\ITU\S6\Projets\Analyse\Analyse\obj\Debug\Analyse.Properties.Resources.resources
+D:\ITU\S6\Projets\Analyse\Analyse\obj\Debug\Analyse.csproj.GenerateResource.Cache
+D:\ITU\S6\Projets\Analyse\Analyse\obj\Debug\Analyse.exe
+D:\ITU\S6\Projets\Analyse\Analyse\obj\Debug\Analyse.pdb
+D:\ITU\S6\Projets\Analyse\Analyse\obj\Debug\Analyse.Form2.resources
+D:\ITU\S6\Projets\Analyse taloha\Analyse\Analyse\bin\Debug\Analyse.exe.config
+D:\ITU\S6\Projets\Analyse taloha\Analyse\Analyse\obj\Debug\Analyse.exe
+D:\ITU\S6\Projets\Analyse taloha\Analyse\Analyse\obj\Debug\Analyse.pdb
+D:\ITU\S6\Projets\Analyse taloha\Analyse\Analyse\bin\Debug\Analyse.exe
+D:\ITU\S6\Projets\Analyse taloha\Analyse\Analyse\bin\Debug\Analyse.pdb
+D:\ITU\S6\Projets\Analyse taloha\Analyse\Analyse\obj\Debug\Analyse.csprojResolveAssemblyReference.cache
+D:\ITU\S6\Projets\Analyse taloha\Analyse\Analyse\obj\Debug\Analyse.Form2.resources
+D:\ITU\S6\Projets\Analyse taloha\Analyse\Analyse\obj\Debug\Analyse.Properties.Resources.resources
+D:\ITU\S6\Projets\Analyse taloha\Analyse\Analyse\obj\Debug\Analyse.csproj.GenerateResource.Cache
+D:\ITU\S6\Projets\Analyse\Analyse\obj\Debug\Analyse.Form1.resources
